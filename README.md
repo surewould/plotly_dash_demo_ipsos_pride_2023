@@ -1,0 +1,1 @@
+Interactive graphing proof of concept for learning plotly dash with Ipsos Pride 2023 survey data. Data source is in offline database, and not checked in for intellectual property reasons.
